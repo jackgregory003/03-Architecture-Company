@@ -1,0 +1,16 @@
+/* NAVIGATION STUFF GOES HERE  */
+nav {
+    ul {
+        display: flex;
+        justify-content: space-around;
+        column-gap: $gutter;
+    }
+    ul li a {
+       border:none;
+    }
+    ul li a:hover {
+        text-decoration: underline;
+        text-decoration-style:dashed;
+        text-underline-offset: 3px;
+    } //end hover
+} // end nav
