@@ -314,7 +314,7 @@ html {
 
 /* --------------------------- BODY --------------------------- */
 body {
-  font-family: "Spline Sans", sans-serif;
+  font-family: "Lato", serif;
   font-weight: 300;
   min-width: 320px;
 }
@@ -357,6 +357,7 @@ nav ul li a {
   display: block;
   padding: 0.8rem 10px;
   border-bottom: dashed 1px rgba(0, 0, 0, 0.2);
+  font-weight: 500;
 }
 
 ul li:last-child a {
