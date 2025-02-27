@@ -334,7 +334,7 @@ header {
 header span {
   font-size: 1.6rem;
   font-weight: 300;
-  color: #1d295f;
+  color: #000000;
 }
 
 /* --------------------------- NAVIGATION STUFF GOES HERE --------------------------- */
@@ -364,7 +364,7 @@ ul li:last-child a {
 }
 
 ul li.active a {
-  color: #7c1d47;
+  color: #e69500;
   font-weight: 500;
 }
 
@@ -372,7 +372,7 @@ ul li.active a {
 main h1 {
   padding: 1rem 10px 0.5rem 10px;
   font-size: 1.5rem;
-  color: #7c1d47;
+  color: #e69500;
   font-weight: 300;
 }
 main p {
@@ -399,7 +399,7 @@ main details summary {
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
-  background-color: #1d295f;
+  background-color: #000000;
 }
 
 footer {
