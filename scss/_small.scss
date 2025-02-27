@@ -100,6 +100,19 @@ main {
         max-height: 600px;
         object-fit: cover; 
     }
+
+    video {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    details {
+        margin: 5rem $gutter;
+        summary {
+            background-color: rgb(172, 172, 172);
+        }
+    }
+
 }// end main
 
 

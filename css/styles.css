@@ -386,6 +386,16 @@ main .hero img {
   max-height: 600px;
   object-fit: cover;
 }
+main video {
+  width: 90%;
+  margin-left: 5%;
+}
+main details {
+  margin: 5rem 10px;
+}
+main details summary {
+  background-color: rgb(172, 172, 172);
+}
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
