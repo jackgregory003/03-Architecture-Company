@@ -94,9 +94,11 @@ main {
         line-height: $leading;
     }
 
-    .hero {
+    .hero img {
         width: 100%;
-        height:auto;
+        height: auto; 
+        max-height: 600px;
+        object-fit: cover; 
     }
 }// end main
 
